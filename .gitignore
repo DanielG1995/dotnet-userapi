@@ -1,0 +1,96 @@
+# Carpeta bin generada por compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos generados por Visual Studio
+*.user
+*.aps
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.mdp
+*[Rr]es*.*
+[Tt]emp*
+*.dbmdl
+*.pch
+*.idb
+*.meta
+*.hpf
+*.hpl
+*.hpi
+*.hpp
+*.hxx
+*.inl
+*.ani
+*.pdb
+*.ipch
+*.ncb
+*.db
+*.aps
+*.res
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.obj
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.tlog
+*.tlog/
+*.manifest
+*.resx
+*.designer.cs
+*.userl
+*.dbmdl
+*.aps
+*.tmp
+*.tmp_proj
+*.pdb
+*.vcproj.*
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# Paquetes NuGet
+packages/
+
+# Carpeta de salida de la cobertura de pruebas
+[Tt]est[Rr]esult*/
+
+# Archivos de configuración específicos del entorno de desarrollo
+*.Development.json
+
+# Archivos de compilación y salida de IDE
+.vs/
+
+# Archivos de resultados de pruebas
+TestResults/
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de usuario específicos de Visual Studio Code
+*.code-workspace
